@@ -26,11 +26,11 @@ I am passionate about building impactful AI solutions, contributing to research 
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming: `Python`, `C`, `C++`, `PHP`, `MATLAB`, `Arduino`, `8085 Assembly`
-### 🧠 AI / Machine Learning: `Deep Learning`, `Machine Learning`, `TensorFlow`, `PyTorch`, `Keras`, `Scikit-learn`, `OpenCV`
-### 🌐 Web & Software: `HTML5`, `CSS3`, `JavaScript`, `Laravel`, `ASP.NET Core`
-### 🗄️ Databases: `MySQL`, `SQL`, `Oracle`
-### 🔧 Tools & Platforms: `Git`, `GitHub`, `Jupyter Notebook`, `Anaconda`, `VS Code`, `LaTeX`
+## 💻 Programming: `Python`, `C`, `C++`, `PHP`, `MATLAB`, `Arduino`, `8085 Assembly`
+## 🧠 AI / Machine Learning: `Deep Learning`, `Machine Learning`, `TensorFlow`, `PyTorch`, `Keras`, `Scikit-learn`, `OpenCV`
+## 🌐 Web & Software: `HTML5`, `CSS3`, `JavaScript`, `Laravel`, `ASP.NET Core`
+## 🗄️ Databases: `MySQL`, `SQL`, `Oracle`
+## 🔧 Tools & Platforms: `Git`, `GitHub`, `Jupyter Notebook`, `Anaconda`, `VS Code`, `LaTeX`
 
 ---
 
